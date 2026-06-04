@@ -697,9 +697,6 @@ git stash pop                 # Bring changes back
 
 If this cheatsheet helped you, please ⭐ **star this repo** so others can find it!
 
-[![GitHub](https://img.shields.io/badge/Made%20by-Kari3as-1a472a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kari3as)
-
 > *"The best time to start was yesterday. The second best time is now."* 🚀
-
 
 </div>
