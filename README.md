@@ -1,13 +1,5 @@
 <div align="center">
 
-![Git & GitHub Zero to Hero](https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,100:2E80DC&height=200&section=header&text=Git%20%26%20GitHub&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Zero%20to%20Hero%20Cheatsheet&descAlignY=55&descSize=22)
-
-[![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-2E80DC?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Required-1a472a?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Recommended-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![License MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Modules](https://img.shields.io/badge/Modules-14-orange?style=for-the-badge)]()
-
 # 🐙 Git & GitHub — Zero to Hero Cheatsheet
 
 > *"Every expert was once a beginner. Every pro was once an amateur."* 🌱
@@ -705,11 +697,6 @@ git stash pop                 # Bring changes back
 
 If this cheatsheet helped you, please ⭐ **star this repo** so others can find it!
 
-[![GitHub](https://img.shields.io/badge/Made%20by-Kari3as-1a472a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kari3as)
-[![LinkedIn Learning](https://img.shields.io/badge/Course-LinkedIn%20Learning-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/learning)
-
 > *"The best time to start was yesterday. The second best time is now."* 🚀
-
-**Built with ❤️ through real hands-on learning — every command in this guide was actually typed, tested, and debugged.**
 
 </div>
